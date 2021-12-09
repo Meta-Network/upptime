@@ -508,19 +508,19 @@
     "url": "https://cstate-one.vercel.app",
     "icon": "https://favicons.githubusercontent.com/cstate-one.vercel.app",
     "slug": "test-bot",
-    "status": "up",
-    "uptime": "7.00%",
-    "uptimeDay": "7.00%",
-    "uptimeWeek": "7.00%",
-    "uptimeMonth": "7.00%",
-    "uptimeYear": "7.00%",
-    "time": 420,
-    "timeDay": 420,
-    "timeWeek": 420,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "status": "down",
+    "uptime": "2.86%",
+    "uptimeDay": "2.86%",
+    "uptimeWeek": "2.86%",
+    "uptimeMonth": "2.86%",
+    "uptimeYear": "2.86%",
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2021-12-09": 31
+      "2021-12-09": 79
     }
   }
 ]
