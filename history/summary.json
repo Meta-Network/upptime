@@ -396,11 +396,11 @@
     "icon": "https://favicons.githubusercontent.com/www.matataki.io",
     "slug": "matataki-fe-token",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "99.12%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 1439,
     "timeDay": 1314,
     "timeWeek": 1328,
@@ -478,9 +478,9 @@
     "url": "https://quest.matataki.io",
     "icon": "https://favicons.githubusercontent.com/quest.matataki.io",
     "slug": "matataki-quest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -489,7 +489,9 @@
     "timeWeek": 1010,
     "timeMonth": 990,
     "timeYear": 990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-22": 0
+    }
   },
   {
     "name": "MatatakiMD",
