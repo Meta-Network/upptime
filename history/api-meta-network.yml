@@ -1,7 +1,7 @@
 url: https://network.api.metanetwork.online
-status: up
-code: 200
-responseTime: 348
-lastUpdated: 2021-12-23T13:50:59.136Z
+status: down
+code: 502
+responseTime: 498
+lastUpdated: 2021-12-23T15:44:16.961Z
 startTime: Wed Dec 08 2021 12:45:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
