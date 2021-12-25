@@ -1,7 +1,7 @@
 url: https://www.matataki.io/p/9730
-status: up
-code: 200
-responseTime: 1649
-lastUpdated: 2021-12-25T11:01:36.567Z
+status: down
+code: 502
+responseTime: 225
+lastUpdated: 2021-12-25T11:53:07.073Z
 startTime: Wed Dec 08 2021 12:45:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
