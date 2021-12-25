@@ -1,7 +1,7 @@
 url: https://www.matataki.io/token/238
-status: up
-code: 200
-responseTime: 1912
-lastUpdated: 2021-12-25T04:48:55.489Z
+status: down
+code: 500
+responseTime: 237
+lastUpdated: 2021-12-25T05:50:25.471Z
 startTime: Wed Dec 08 2021 12:45:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
