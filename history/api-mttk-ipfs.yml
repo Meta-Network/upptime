@@ -1,7 +1,7 @@
 url: https://api.mttk.net/post/ipfs/QmSr94SdMEdCgGTKyJYTwMdVEzZ28sRiLqfQ7S7c2t8C5h
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2021-12-28T14:32:43.783Z
+status: down
+code: 502
+responseTime: 209
+lastUpdated: 2021-12-28T19:23:29.437Z
 startTime: Wed Dec 08 2021 12:45:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
