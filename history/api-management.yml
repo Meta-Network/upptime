@@ -1,7 +1,7 @@
 url: https://api-mgr-hk.mttk.net
-status: down
-code: 502
-responseTime: 741
-lastUpdated: 2021-12-27T23:04:16.491Z
+status: up
+code: 200
+responseTime: 936
+lastUpdated: 2021-12-28T10:04:37.004Z
 startTime: Wed Dec 08 2021 12:45:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
