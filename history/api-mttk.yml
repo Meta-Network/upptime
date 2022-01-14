@@ -1,7 +1,7 @@
 url: https://api.mttk.net
-status: down
-code: 502
-responseTime: 977
-lastUpdated: 2022-01-14T10:11:32.829Z
+status: up
+code: 200
+responseTime: 944
+lastUpdated: 2022-01-14T10:35:26.137Z
 startTime: Wed Dec 08 2021 12:45:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
