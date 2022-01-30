@@ -1,7 +1,7 @@
 url: https://api.mttk.net/minetoken/238
-status: down
-code: 502
-responseTime: 236
-lastUpdated: 2022-01-30T01:36:17.698Z
+status: up
+code: 200
+responseTime: 1536
+lastUpdated: 2022-01-30T02:14:48.639Z
 startTime: Wed Dec 08 2021 12:45:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
